@@ -1,4 +1,5 @@
 `include "Transaction.sv"
+
 class scoreboard;
  mailbox mon2scb;
  int no_trans;
